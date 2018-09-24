@@ -436,7 +436,7 @@
       - noops
 
 - project:
-    name: Juniper/contrail-project-config
+    name: jluk-codi-org/contrail-project-config
     templates:
       - noops
     check:
